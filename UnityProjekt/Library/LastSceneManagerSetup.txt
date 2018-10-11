@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Szenen/Planetensystem.unity
+  isLoaded: 1
+  isActive: 1
